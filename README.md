@@ -1,2 +1,2 @@
 # hangman
-messing around
+simple Hangman game to pass time.
